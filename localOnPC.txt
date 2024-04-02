@@ -1,1 +1,2 @@
 test file on pc in c:\dcp\github\duplicate-bridge-scorer
+added on linux
